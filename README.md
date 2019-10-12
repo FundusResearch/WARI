@@ -14,4 +14,4 @@ The following papers describe the Wide-field images database:
 There will be update.
 
 Various performance indexes are as follows:
-![performance](https://github.com/FundusResearch/WARI/performance.png)  
+![performance](https://github.com/FundusResearch/WARI/blob/master/performance.png) 
